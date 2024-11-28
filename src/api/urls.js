@@ -1,4 +1,4 @@
-const URL = "https://54.162.16.87:5000";
+const URL = "https://54.162.16.87.npi.io";
 
 // PROFILE ENDPOINTS //
 // ------------------//
